@@ -28,7 +28,8 @@ Delinquency is 10.8%, far above the 1.6% default rate step up early follow-up on
 Uttar Pradesh, Punjab and Bihar lead lending: watch concentration risk
 Loans cluster in grades B and C and ages 26-35: target this core segment
 
-Demo: 
+6. Demo: 
+https://github.com/Vaibhavikar/Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis.png
 
 
 
